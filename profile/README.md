@@ -8,11 +8,12 @@ These Haskell projects have been upgraded to a published version of Updo, e.g.
 `updo-1.0.0`, or have been upgraded to development version of Updo, identified
 with a commit hash.
 
-| Source | Updo Version | Updo Hash |
-| :- | -:| :-: |
-| [commercialhaskell/stack](https://github.com/up-do/stack) | `1.0.0` | |
-| [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | |
-| [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | |
+| Source | Updo Version | Updo Hash | Notes |
+| :- | -:| :-: | :-: |
+| [MercuryTechnologies/hlint-plugin](https://github.com/up-do/hlint-plugin) | `1.0.0` | | [⇢](/hlint-plugin.md) |
+| [commercialhaskell/stack](https://github.com/up-do/stack) | `1.0.0` | | |
+| [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | | |
+| [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | | |
 
 ## Proposed
 

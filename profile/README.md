@@ -4,12 +4,38 @@ _From Dhall configuration, generate Stack and Cabal projects with Dhall text tem
 
 ## Conversions
 
-These Haskell projects are either up for conversion, have been upgraded to a
-published version of Updo, e.g. `updo-1.0.0`, or have been upgraded to
-development version of Updo, identified with a commit hash.
+These Haskell projects have been upgraded to a published version of Updo, e.g.
+`updo-1.0.0`, or have been upgraded to development version of Updo, identified
+with a commit hash.
 
 | Source | Updo Version | Updo Hash |
 | :- | -:| :-: |
-| [Cabal](https://github.com/up-do/cabal) | `1.0.0` | |
-| [Stack](https://github.com/up-do/stack) | `1.0.0` | |
-| [Dex](https://github.com/up-do/dex-lang) | `1.0.0` | |
+| [commercialhaskell/stack](https://github.com/up-do/stack) | `1.0.0` | |
+| [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | |
+| [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | |
+
+## Proposed
+
+These projects are up for conversion. Add a pull request if you want to suggest
+another project.
+
+* [agda/agda](https://github.com/agda/agda)
+* [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler)
+* [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp)
+* [diku-dk/futhark](https://github.com/diku-dk/futhark)
+* [elm/compiler](https://github.com/elm/compiler)
+* [ghc/ghc](https://github.com/ghc/ghc)
+* [github/semantic](https://github.com/github/semantic)
+* [haskell-servant/servant](https://github.com/haskell-servant/servant)
+* [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev)
+* [input-output-hk/plutus](https://github.com/input-output-hk/plutus)
+* [jgm/pandoc](https://github.com/jgm/pandoc)
+* [lamdu/lamdu](https://github.com/lamdu/lamdu)
+* [simonmichael/hledger](https://github.com/simonmichael/hledger)
+* [ucsd-progsys/liquid-fixpoint](https://github.com/ucsd-progsys/liquid-fixpoint)
+* [ucsd-progsys/liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell)
+* [unisonweb/unison](https://github.com/unisonweb/unison/)
+* [yesodweb/persistent](https://github.com/yesodweb/persistent)
+* [yesodweb/yesod](https://github.com/yesodweb/yesod)
+* [yi-editor/yi](https://github.com/yi-editor/yi)
+

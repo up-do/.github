@@ -25,7 +25,7 @@ another project.
 * [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler)
 * [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp)
 * [elm/compiler](https://github.com/elm/compiler)
-* [ghc/ghc](https://github.com/ghc/ghc)
+* [ghc/ghc](https://github.com/ghc/ghc)[^1]
 * [github/semantic](https://github.com/github/semantic)
 * [haskell-servant/servant](https://github.com/haskell-servant/servant)
 * [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev)
@@ -39,3 +39,4 @@ another project.
 * [yesodweb/yesod](https://github.com/yesodweb/yesod)
 * [yi-editor/yi](https://github.com/yi-editor/yi)
 
+[^1]: When GHC builds with Cabal.

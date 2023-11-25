@@ -14,6 +14,7 @@ with a commit hash.
 | [commercialhaskell/stack](https://github.com/up-do/stack) | `1.0.0` | | |
 | [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | | |
 | [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | | |
+| [jgm/pandoc](https://github.com/up-do/pandoc) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
 
 ## Proposed
 
@@ -30,7 +31,6 @@ another project.
 * [haskell-servant/servant](https://github.com/haskell-servant/servant)
 * [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev)
 * [input-output-hk/plutus](https://github.com/input-output-hk/plutus)
-* [jgm/pandoc](https://github.com/jgm/pandoc)
 * [lamdu/lamdu](https://github.com/lamdu/lamdu)
 * [simonmichael/hledger](https://github.com/simonmichael/hledger)
 * [ucsd-progsys/liquid-fixpoint](https://github.com/ucsd-progsys/liquid-fixpoint)

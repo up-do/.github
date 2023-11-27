@@ -2,6 +2,11 @@
 
 _From Dhall configuration, generate Stack and Cabal projects with Dhall text templating_
 
+Please see the [readme](https://github.com/cabalism/updo#readme) or
+[announcement](https://blockscope.com/posts/2023-11-15-updo.html) for more
+details on Updo itself. Here you'll find examples of projects converted to use
+Updo to configure, generate and sometimes upgrade projects.
+
 ## Conversions
 
 These Haskell projects have been upgraded to a published version of Updo, e.g.

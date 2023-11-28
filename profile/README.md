@@ -33,8 +33,6 @@ another project.
 * [agda/agda](https://github.com/agda/agda)
 * [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp)
 * [elm/compiler](https://github.com/elm/compiler)
-* [ghc/ghc](https://github.com/ghc/ghc)[^1]
-* [github/semantic](https://github.com/github/semantic)
 * [haskell-servant/servant](https://github.com/haskell-servant/servant)
 * [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev)
 * [input-output-hk/plutus](https://github.com/input-output-hk/plutus)
@@ -45,4 +43,14 @@ another project.
 * [yesodweb/yesod](https://github.com/yesodweb/yesod)
 * [yi-editor/yi](https://github.com/yi-editor/yi)
 
+## Considered but Rejected
+
+* [ghc/ghc](https://github.com/ghc/ghc)[^1]
+* [github/semantic](https://github.com/github/semantic)[^2]
+
 [^1]: When GHC builds with Cabal.
+[^2]: It looks like the [github/semantic]() project is parked (["in
+      flux"](https://github.com/github/semantic/issues/698#issuecomment-1503955816))
+      with development shifted to
+      [github/stack-graphs](https://github.com/github/stack-graphs), a rust
+      project.

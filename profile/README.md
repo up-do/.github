@@ -23,6 +23,7 @@ with a commit hash.
 | [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | | |
 | [jgm/pandoc](https://github.com/up-do/pandoc) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
 | [ucsd-progsys/liquid-fixpoint](https://github.com/up-do/liquid-fixpoint) | | [6453f4](https://github.com/cabalism/updo/commit/6453f4b8a74f9ca665ff3d21644b1b9284a87a55) | |
+| [ucsd-progsys/liquidhaskell](https://github.com/up-do/liquidhaskell) | | [6453f4](https://github.com/cabalism/updo/commit/6453f4b8a74f9ca665ff3d21644b1b9284a87a55) | |
 
 ## Proposed
 
@@ -39,7 +40,6 @@ another project.
 * [input-output-hk/plutus](https://github.com/input-output-hk/plutus)
 * [lamdu/lamdu](https://github.com/lamdu/lamdu)
 * [simonmichael/hledger](https://github.com/simonmichael/hledger)
-* [ucsd-progsys/liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell)
 * [unisonweb/unison](https://github.com/unisonweb/unison/)
 * [yesodweb/persistent](https://github.com/yesodweb/persistent)
 * [yesodweb/yesod](https://github.com/yesodweb/yesod)

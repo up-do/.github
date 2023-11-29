@@ -19,6 +19,7 @@ with a commit hash.
 | [clash-lang/clash-compiler](https://github.com/up-do/clash-compiler) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
 | [commercialhaskell/stack](https://github.com/up-do/stack) | `1.0.0` | | |
 | [diku-dk/futhark](https://github.com/up-do/futhark) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
+| [elm/compiler](https://github.com/up-do/elm-compiler) | | [7fa75f](https://github.com/cabalism/updo/commit/7fa75f53441a5a4b858016744ec275a1e7b6a44a) | |
 | [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | | |
 | [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | | |
 | [jgm/pandoc](https://github.com/up-do/pandoc) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
@@ -32,7 +33,6 @@ another project.
 
 * [agda/agda](https://github.com/agda/agda)
 * [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp)
-* [elm/compiler](https://github.com/elm/compiler)
 * [haskell-servant/servant](https://github.com/haskell-servant/servant)
 * [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev)
 * [input-output-hk/plutus](https://github.com/input-output-hk/plutus)

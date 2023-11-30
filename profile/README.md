@@ -21,7 +21,7 @@ with a commit hash.
 | [diku-dk/futhark](https://github.com/up-do/futhark) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
 | [elm/compiler](https://github.com/up-do/elm-compiler) | | [7fa75f](https://github.com/cabalism/updo/commit/7fa75f53441a5a4b858016744ec275a1e7b6a44a) | |
 | [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | | |
-| [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | | |
+| [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | [7fa75f](https://github.com/cabalism/updo/commit/7fa75f53441a5a4b858016744ec275a1e7b6a44a) | | 
 | [jgm/pandoc](https://github.com/up-do/pandoc) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
 | [ucsd-progsys/liquid-fixpoint](https://github.com/up-do/liquid-fixpoint) | | [6453f4](https://github.com/cabalism/updo/commit/6453f4b8a74f9ca665ff3d21644b1b9284a87a55) | |
 | [ucsd-progsys/liquidhaskell](https://github.com/up-do/liquidhaskell) | | [6453f4](https://github.com/cabalism/updo/commit/6453f4b8a74f9ca665ff3d21644b1b9284a87a55) | |

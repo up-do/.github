@@ -15,16 +15,16 @@ with a commit hash.
 
 | Source | Updo Version | Updo Hash | Notes |
 | :- | -:| :-: | :-: |
-| [MercuryTechnologies/hlint-plugin](https://github.com/up-do/hlint-plugin) | `1.0.0` | | [⇢](/hlint-plugin.md) |
-| [clash-lang/clash-compiler](https://github.com/up-do/clash-compiler) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
-| [commercialhaskell/stack](https://github.com/up-do/stack) | `1.0.0` | | |
-| [diku-dk/futhark](https://github.com/up-do/futhark) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
-| [elm/compiler](https://github.com/up-do/elm-compiler) | | [7fa75f](https://github.com/cabalism/updo/commit/7fa75f53441a5a4b858016744ec275a1e7b6a44a) | |
-| [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | [7fa75f](https://github.com/cabalism/updo/commit/7fa75f53441a5a4b858016744ec275a1e7b6a44a) | | 
-| [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | [7fa75f](https://github.com/cabalism/updo/commit/7fa75f53441a5a4b858016744ec275a1e7b6a44a) | | 
-| [jgm/pandoc](https://github.com/up-do/pandoc) | | [9d89b8](https://github.com/cabalism/updo/commit/9d89b85a54e49fd0c7a29342cf5b98de2529f588) | |
-| [ucsd-progsys/liquid-fixpoint](https://github.com/up-do/liquid-fixpoint) | | [6453f4](https://github.com/cabalism/updo/commit/6453f4b8a74f9ca665ff3d21644b1b9284a87a55) | |
-| [ucsd-progsys/liquidhaskell](https://github.com/up-do/liquidhaskell) | | [6453f4](https://github.com/cabalism/updo/commit/6453f4b8a74f9ca665ff3d21644b1b9284a87a55) | |
+| [MercuryTechnologies/hlint-plugin](https://github.com/up-do/hlint-plugin) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | [⇢](/hlint-plugin.md) |
+| [clash-lang/clash-compiler](https://github.com/up-do/clash-compiler) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [commercialhaskell/stack](https://github.com/up-do/stack) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
+| [diku-dk/futhark](https://github.com/up-do/futhark) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [elm/compiler](https://github.com/up-do/elm-compiler) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
+| [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
+| [jgm/pandoc](https://github.com/up-do/pandoc) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [ucsd-progsys/liquid-fixpoint](https://github.com/up-do/liquid-fixpoint) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [ucsd-progsys/liquidhaskell](https://github.com/up-do/liquidhaskell) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 
 ## Proposed
 

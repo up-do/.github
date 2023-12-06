@@ -25,6 +25,7 @@ with a commit hash.
 | [jgm/pandoc](https://github.com/up-do/pandoc) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 | [ucsd-progsys/liquid-fixpoint](https://github.com/up-do/liquid-fixpoint) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 | [ucsd-progsys/liquidhaskell](https://github.com/up-do/liquidhaskell) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [unisonweb/unison](https://github.com/up-do/unison/) | | [cdb06e](https://github.com/cabalism/updo/commit/cdb06ebebaf6b8739e900780bc317cec3cac2d24) | |
 | [yesodweb/persistent](https://github.com/up-do/persistent) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 | [yesodweb/yesod](https://github.com/up-do/yesod) | | [d5de60](https://github.com/cabalism/updo/commit/d5de6070bed90c3c1a92d3a976998fcf847d77af) | |
 
@@ -40,7 +41,6 @@ another project.
 * [input-output-hk/plutus](https://github.com/input-output-hk/plutus)
 * [lamdu/lamdu](https://github.com/lamdu/lamdu)
 * [simonmichael/hledger](https://github.com/simonmichael/hledger)
-* [unisonweb/unison](https://github.com/unisonweb/unison/)
 * [yi-editor/yi](https://github.com/yi-editor/yi)
 
 ## Considered but Rejected

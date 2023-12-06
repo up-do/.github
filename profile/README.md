@@ -25,6 +25,7 @@ with a commit hash.
 | [jgm/pandoc](https://github.com/up-do/pandoc) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 | [ucsd-progsys/liquid-fixpoint](https://github.com/up-do/liquid-fixpoint) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 | [ucsd-progsys/liquidhaskell](https://github.com/up-do/liquidhaskell) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [yesodweb/persistent](https://github.com/up-do/persistent) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 
 ## Proposed
 
@@ -39,7 +40,6 @@ another project.
 * [lamdu/lamdu](https://github.com/lamdu/lamdu)
 * [simonmichael/hledger](https://github.com/simonmichael/hledger)
 * [unisonweb/unison](https://github.com/unisonweb/unison/)
-* [yesodweb/persistent](https://github.com/yesodweb/persistent)
 * [yesodweb/yesod](https://github.com/yesodweb/yesod)
 * [yi-editor/yi](https://github.com/yi-editor/yi)
 

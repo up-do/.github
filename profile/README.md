@@ -37,7 +37,6 @@ another project.
 * [agda/agda](https://github.com/agda/agda)
 * [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp)
 * [haskell-servant/servant](https://github.com/haskell-servant/servant)
-* [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev)
 * [input-output-hk/plutus](https://github.com/input-output-hk/plutus)
 * [lamdu/lamdu](https://github.com/lamdu/lamdu)
 * [simonmichael/hledger](https://github.com/simonmichael/hledger)
@@ -47,6 +46,7 @@ another project.
 
 * [ghc/ghc](https://github.com/ghc/ghc)[^1]
 * [github/semantic](https://github.com/github/semantic)[^2]
+* [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev)[^3]
 
 [^1]: When GHC builds with Cabal.
 [^2]: It looks like the [github/semantic]() project is parked (["in
@@ -54,3 +54,8 @@ another project.
       with development shifted to
       [github/stack-graphs](https://github.com/github/stack-graphs), a rust
       project.
+[^3]: Idris has [moved on from Haskell](https://github.com/idris-lang/Idris-dev/tree/master#status).
+      > This is Idris 1, implemented in Haskell. Idris 1 is not actively
+      > worked on anymore.
+      > [Idris 2](https://github.com/idris-lang/Idris2) is the next generation
+      > of Idris, and where primary development happens.

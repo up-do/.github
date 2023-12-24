@@ -15,6 +15,7 @@ with a commit hash.
 
 | Source | Updo Version | Updo Hash | Notes |
 | :- | -:| :-: | :-: |
+| [Copilot-Language/copilot](https://github.com/up-do/copilot) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
 | [MercuryTechnologies/hlint-plugin](https://github.com/up-do/hlint-plugin) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | [⇢](/hlint-plugin.md) |
 | [clash-lang/clash-compiler](https://github.com/up-do/clash-compiler) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 | [commercialhaskell/stack](https://github.com/up-do/stack) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 

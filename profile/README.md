@@ -23,6 +23,7 @@ with a commit hash.
 | [elm/compiler](https://github.com/up-do/elm-compiler) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 | [gelisam/klister](https://github.com/gelisam/klister) | | [a86c16](https://github.com/up-do/klister/commit/118996d6ed534ba52fbf799333d48a490cdb46aa) | |
 | [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
+| [haskell-infra/www.haskell.org](https://github.com/haskell-infra/www.haskell.org) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
 | [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
 | [jgm/pandoc](https://github.com/up-do/pandoc) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
 | [simonmichael/hledger](https://github.com/simonmichael/hledger) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |

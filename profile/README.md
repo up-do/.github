@@ -13,26 +13,26 @@ These Haskell projects have been upgraded to a published version of Updo, e.g.
 `updo-1.0.0`, or have been upgraded to development version of Updo, identified
 with a commit hash.
 
-| Source | Updo Version | Updo Hash | Notes |
-| :- | -:| :-: | :-: |
-| [Copilot-Language/copilot](https://github.com/up-do/copilot) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
-| [MercuryTechnologies/hlint-plugin](https://github.com/up-do/hlint-plugin) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | [⇢](/hlint-plugin.md) |
-| [clash-lang/clash-compiler](https://github.com/up-do/clash-compiler) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
-| [commercialhaskell/stack](https://github.com/up-do/stack) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
-| [diku-dk/futhark](https://github.com/up-do/futhark) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
-| [elm/compiler](https://github.com/up-do/elm-compiler) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
-| [gelisam/klister](https://github.com/gelisam/klister) | | [a86c16](https://github.com/up-do/klister/commit/118996d6ed534ba52fbf799333d48a490cdb46aa) | |
-| [google-research/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
-| [haskell-infra/www.haskell.org](https://github.com/haskell-infra/www.haskell.org) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
-| [haskell/cabal](https://github.com/up-do/cabal) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
-| [jgm/pandoc](https://github.com/up-do/pandoc) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
-| [simonmichael/hledger](https://github.com/simonmichael/hledger) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
-| [tahoe-lafs/tahoe-s3](https://gitlab.com/tahoe-lafs/tahoe-s3) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
-| [ucsd-progsys/liquid-fixpoint](https://github.com/up-do/liquid-fixpoint) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
-| [ucsd-progsys/liquidhaskell](https://github.com/up-do/liquidhaskell) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
-| [unisonweb/unison](https://github.com/up-do/unison/) | | [cdb06e](https://github.com/cabalism/updo/commit/cdb06ebebaf6b8739e900780bc317cec3cac2d24) | |
-| [yesodweb/persistent](https://github.com/up-do/persistent) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
-| [yesodweb/yesod](https://github.com/up-do/yesod) | | [d5de60](https://github.com/cabalism/updo/commit/d5de6070bed90c3c1a92d3a976998fcf847d77af) | |
+| Upstream Repo | Converted Repo | Updo Version | Updo Hash | Notes |
+| :- | :- | -:| :-: | :-: |
+| [Copilot-Language/copilot](https://github.com/Copilot-Language/copilot) | [up-do/copilot](https://github.com/up-do/copilot) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
+| [MercuryTechnologies/hlint-plugin](https://github.com/MercuryTechnologies/hlint-plugin) | [up-do/hlint-plugin](https://github.com/up-do/hlint-plugin) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | [⇢](/hlint-plugin.md) |
+| [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) | [up-do/clash-compiler](https://github.com/up-do/clash-compiler) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [commercialhaskell/stack](https://github.com/commercialhaskell/stack) | [up-do/stack](https://github.com/up-do/stack) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
+| [diku-dk/futhark](https://github.com/diku-dk/futhark) | [up-do/futhark](https://github.com/up-do/futhark) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [elm/compiler](https://github.com/elm/compiler) | [up-do/compiler](https://github.com/up-do/elm-compiler) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [gelisam/klister](https://github.com/gelisam/klister) | [up-do/klister](https://github.com/up-do/klister) | | [a86c16](https://github.com/up-do/klister/commit/118996d6ed534ba52fbf799333d48a490cdb46aa) | |
+| [google-research/dex-lang](https://github.com/google-research/dex-lang) | [up-do/dex-lang](https://github.com/up-do/dex-lang) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
+| [haskell-infra/www.haskell.org](https://github.com/haskell-infra/www.haskell.org) | [up-do/www.haskell.org](https://github.com/up-do/www.haskell.org) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
+| [haskell/cabal](https://github.com/haskell/cabal) | [up-do/cabal](https://github.com/up-do/cabal) | `1.0.0` | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | | 
+| [jgm/pandoc](https://github.com/jgm/pandoc) | [up-do/pandoc](https://github.com/up-do/pandoc) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [simonmichael/hledger](https://github.com/simonmichael/hledger) | [up-do/hledger](https://github.com/up-do/hledger) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
+| [tahoe-lafs/tahoe-s3](https://gitlab.com/tahoe-lafs/tahoe-s3) | [up-do/tahoe](https://github.com/up-do/tahoe) | | [a86c16](https://github.com/cabalism/updo/commit/a86c165687b2b5e8251265418a9c4181c6a651a0) | |
+| [ucsd-progsys/liquid-fixpoint](https://github.com/ucsd-progsys/liquid-fixpoint) | [up-do/liquid-fixpoint](https://github.com/up-do/liquid-fixpoint) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [ucsd-progsys/liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) | [up-do/liquidhaskell](https://github.com/up-do/liquidhaskell) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [unisonweb/unison](https://github.com/unisonweb/unison) | [up-do/unison](https://github.com/up-do/unison/) | | [cdb06e](https://github.com/cabalism/updo/commit/cdb06ebebaf6b8739e900780bc317cec3cac2d24) | |
+| [yesodweb/persistent](https://github.com/yesodweb/persistent) | [up-do/persistent](https://github.com/up-do/persistent) | | [60545b](https://github.com/cabalism/updo/commit/60545b108b7a6a2f802ec7a161aa4b9eb7441baf) | |
+| [yesodweb/yesod](https://github.com/yesodweb/yesod) | [up-do/yesod](https://github.com/up-do/yesod) | | [d5de60](https://github.com/cabalism/updo/commit/d5de6070bed90c3c1a92d3a976998fcf847d77af) | |
 
 ## Proposed
 
